@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ec63073-fd1b-42df-bb76-dea748d96db0" name="Default Changelist" comment="generate: fix import path" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/framework$test.coverage" NAME="test Coverage Results" MODIFIED="1541848447415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/framework$main.coverage" NAME="main Coverage Results" MODIFIED="1541929890507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>close</find>
+      <find>SearchTreeNode</find>
+      <find>tree_search_info</find>
+      <find>GraphProblemSolver</find>
+      <find>_iterate_over_state_to_expand</find>
+      <find>graph</find>
+      <find>RelaxedDeliveriesState</find>
+      <find>RelaxedDeliveriesHeuristic</find>
+      <find>StrictDeliveriesState_</find>
+      <find>focus</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1UcHmBEUnGQ8ODePG86jSkbuz1Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/graph_search" />
+      <recent name="$PROJECT_DIR$/utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ec63073-fd1b-42df-bb76-dea748d96db0" name="Default Changelist" comment="" />
+      <created>1540640395534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540640395534</updated>
+    </task>
+    <task id="LOCAL-00001" summary="framework / utils / heapdict">
+      <created>1540856742474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540856742474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="framework / ways [add as-is from last semester]">
+      <created>1540856783466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540856783466</updated>
+    </task>
+    <task id="LOCAL-00003" summary="db / tlv.csv [tel aviv map]">
+      <created>1540856815897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540856815897</updated>
+    </task>
+    <task id="LOCAL-00004" summary="framework / graph search (interface to model the graph search abstraction)">
+      <created>1540856933888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540856933888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="framework / graph search / implement `UniformCost` + `AStar`">
+      <created>1540856971045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540856971045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="framework / consts [from last semester]">
+      <created>1540856999132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540856999132</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor: modify directories to avoid non-treewise imports; add documentation">
+      <created>1541856183097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541856183097</updated>
+    </task>
+    <task id="LOCAL-00008" summary="AStar + BestFirstSearch: documentation">
+      <created>1541859754798</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541859754798</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HeuristicFunctionType: can be now any callable returning a heuristic instance">
+      <created>1541860295590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541860295590</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ways/tools: minor refactor">
+      <created>1541860332395</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1541860332395</updated>
+    </task>
+    <task id="LOCAL-00011" summary="AirDistHeuristic: documentation">
+      <created>1541865131577</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865131577</updated>
+    </task>
+    <task id="LOCAL-00012" summary="AirDistHeuristic: documentation">
+      <created>1541867132090</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1541867132090</updated>
+    </task>
+    <task id="LOCAL-00013" summary="graph problem interface: fix documentation">
+      <created>1541872807517</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541872807517</updated>
+    </task>
+    <task id="LOCAL-00014" summary="relaxed deliveries: documentation">
+      <created>1541872828702</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541872828702</updated>
+    </task>
+    <task id="LOCAL-00015" summary="MaxAirDistHeuristic: documentation">
+      <created>1541873581993</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1541873581993</updated>
+    </task>
+    <task id="LOCAL-00016" summary="documentation">
+      <created>1541893870196</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1541893870196</updated>
+    </task>
+    <task id="LOCAL-00017" summary="DeliveriesProblem: documentation + refactor + fix float cmp issue">
+      <created>1541894332763</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541894332763</updated>
+    </task>
+    <task id="LOCAL-00018" summary="main: tasks">
+      <created>1541895249147</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541895249147</updated>
+    </task>
+    <task id="LOCAL-00019" summary="generate: fix import path">
+      <created>1541895281422</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541895281422</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="framework / utils / heapdict" />
+    <MESSAGE value="framework / ways [add as-is from last semester]" />
+    <MESSAGE value="db / tlv.csv [tel aviv map]" />
+    <MESSAGE value="framework / graph search (interface to model the graph search abstraction)" />
+    <MESSAGE value="framework / graph search / implement `UniformCost` + `AStar`" />
+    <MESSAGE value="framework / consts [from last semester]" />
+    <MESSAGE value="refactor: modify directories to avoid non-treewise imports; add documentation" />
+    <MESSAGE value="AStar + BestFirstSearch: documentation" />
+    <MESSAGE value="HeuristicFunctionType: can be now any callable returning a heuristic instance" />
+    <MESSAGE value="ways/tools: minor refactor" />
+    <MESSAGE value="AirDistHeuristic: documentation" />
+    <MESSAGE value="graph problem interface: fix documentation" />
+    <MESSAGE value="relaxed deliveries: documentation" />
+    <MESSAGE value="MaxAirDistHeuristic: documentation" />
+    <MESSAGE value="documentation" />
+    <MESSAGE value="DeliveriesProblem: documentation + refactor + fix float cmp issue" />
+    <MESSAGE value="main: tasks" />
+    <MESSAGE value="generate: fix import path" />
+    <option name="LAST_COMMIT_MESSAGE" value="generate: fix import path" />
+  </component>
+</project>
